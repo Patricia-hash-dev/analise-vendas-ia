@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./docs/A_banner_for_a_data_analysis_project_titled_Da_Sh.png" alt="Banner do Projeto - Da Shopee ao Insight">
+</p>
+
 # 📊 Análise de Relatórios de Vendas com Inteligência Artificial
 
 Este projeto tem como objetivo aplicar conceitos de Inteligência Artificial, análise de dados e engenharia de prompts para interpretar relatórios de vendas, extrair padrões relevantes e gerar insights estratégicos para o negócio.
