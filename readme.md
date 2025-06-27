@@ -17,11 +17,15 @@ Este projeto tem como objetivo aplicar conceitos de Inteligência Artificial, an
 ## 🛠️ Estrutura do Projeto
 
 
-- 📁 raw_data/ – Arquivos originais (não modificados)  
-- 📁 processed_data/ – Dados tratados e prontos para análise  
+ 📁 data/
+  - 📁 raw_data/ – Arquivos originais (não modificados)
+  - 📁 processed_data/ – Dados tratados e prontos para análise
+
 - 📁 prompts/ – Prompts utilizados, com explicação e resultados  
 - 📁 insights/ – Análises geradas com apoio da IA  
-- 📁 docs/ – Documentos técnicos complementares  
+- 📁 docs/ – Documentos técnicos complementares (inclui o banner)  
+- 📁 scripts/ – Código Python utilizado para análise
+
 - 📄 README.md – Documentação principal do projeto
 
 ---
